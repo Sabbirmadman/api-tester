@@ -1,0 +1,24 @@
+.App{
+  padding: 20px;
+}
+
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+button{
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+}
+
+.App-error{
+  color: red;
+  font-size: 12px;
+  border: 1px solid red;
+}
